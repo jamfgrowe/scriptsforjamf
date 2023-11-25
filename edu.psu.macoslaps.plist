@@ -8,6 +8,8 @@
     <string>daimyo</string>
     <key>PasswordLength</key>
     <integer>12</integer>
+    <key>Method</key>
+    <string>Local</string>
     <key>RemovePassChars</key>
     <string>{}[]|</string>
 </dict>

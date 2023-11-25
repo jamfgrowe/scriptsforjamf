@@ -5,9 +5,9 @@
     <key>DaysTillExpiration</key>
     <integer>30</integer>
     <key>LocalAdminAccount</key>
-    <string>admin</string>
+    <string>daimyo</string>
     <key>PasswordLength</key>
-    <integer>14</integer>
+    <integer>12</integer>
     <key>RemovePassChars</key>
     <string>{}[]|</string>
 </dict>

@@ -10,6 +10,8 @@
     <integer>12</integer>
     <key>Method</key>
     <string>Local</string>
+    <key>RemoveKeyChain</key>
+    <true/>
     <key>FirstPass</key>
     <string>M@k1t@1sh3r3!@#</string>
     <key>RemovePassChars</key>
